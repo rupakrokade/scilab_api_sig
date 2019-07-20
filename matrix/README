@@ -1,0 +1,2 @@
+The api code is in "sci_matrix.c"
+Execute "run.sce" in scilab to build and call the function "matrix" defined in c
